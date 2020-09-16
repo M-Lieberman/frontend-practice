@@ -11,5 +11,16 @@ body {
 }
 
 img {
+    display: none;
     max-width: 100%;
+}
+@media only screen and (min-width: 500px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+@media only screen and (min-width: 400px) {
+    img {
+        display: block;
+    }
 }
