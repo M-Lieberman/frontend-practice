@@ -1,1 +1,1 @@
-## repo for practicing web development
+## repo for web development practice
